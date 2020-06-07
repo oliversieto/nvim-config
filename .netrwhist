@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/renato/.config/nvim'
+let g:netrw_dirhist_7='/home/renato/.config/nvim/plugins'
+let g:netrw_dirhist_6='/home/renato/.config/nvim'
+let g:netrw_dirhist_5='/home/Desenvolvimento/estudo/nlw/aulas/mobile'
 let g:netrw_dirhist_4='/home/Desenvolvimento/estudo/nlw/aulas/server/src'
 let g:netrw_dirhist_3='/home/Desenvolvimento/estudo/nlw/aulas/server'
 let g:netrw_dirhist_2='/home/Desenvolvimento/estudo/nlw/aulas/server/src'
